@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 # Hi I'm Aydemir
 ## ![](https://visitor-badge.laobi.icu/badge?page_id=Aydemirozcan.Aydemir-zcan) **|** [![Github](https://img.shields.io/github/followers/Aydemirozcan?label=Follow&style=social)](https://github.com/Aydemirozcan)
 ### Contact Me 📫
